@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviegalaxy/static/css/main.f928a283.chunk.css",
-    "main.js": "/moviegalaxy/static/js/main.67df78f5.chunk.js",
-    "main.js.map": "/moviegalaxy/static/js/main.67df78f5.chunk.js.map",
+    "main.js": "/moviegalaxy/static/js/main.8cc3f39a.chunk.js",
+    "main.js.map": "/moviegalaxy/static/js/main.8cc3f39a.chunk.js.map",
     "runtime-main.js": "/moviegalaxy/static/js/runtime-main.95b902e3.js",
     "runtime-main.js.map": "/moviegalaxy/static/js/runtime-main.95b902e3.js.map",
     "static/js/2.6816ac8b.chunk.js": "/moviegalaxy/static/js/2.6816ac8b.chunk.js",
     "static/js/2.6816ac8b.chunk.js.map": "/moviegalaxy/static/js/2.6816ac8b.chunk.js.map",
     "index.html": "/moviegalaxy/index.html",
-    "precache-manifest.70ae93da760e94200ce4077ef7a87f1d.js": "/moviegalaxy/precache-manifest.70ae93da760e94200ce4077ef7a87f1d.js",
+    "precache-manifest.6e8d9e60dea6a91cf0ee394b9b8675b1.js": "/moviegalaxy/precache-manifest.6e8d9e60dea6a91cf0ee394b9b8675b1.js",
     "service-worker.js": "/moviegalaxy/service-worker.js",
     "static/css/main.f928a283.chunk.css.map": "/moviegalaxy/static/css/main.f928a283.chunk.css.map",
     "static/js/2.6816ac8b.chunk.js.LICENSE.txt": "/moviegalaxy/static/js/2.6816ac8b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.95b902e3.js",
     "static/js/2.6816ac8b.chunk.js",
     "static/css/main.f928a283.chunk.css",
-    "static/js/main.67df78f5.chunk.js"
+    "static/js/main.8cc3f39a.chunk.js"
   ]
 }
