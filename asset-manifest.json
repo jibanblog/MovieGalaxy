@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moviegalaxy/static/css/main.f928a283.chunk.css",
+    "main.js": "/moviegalaxy/static/js/main.86a81666.chunk.js",
+    "main.js.map": "/moviegalaxy/static/js/main.86a81666.chunk.js.map",
+    "runtime-main.js": "/moviegalaxy/static/js/runtime-main.95b902e3.js",
+    "runtime-main.js.map": "/moviegalaxy/static/js/runtime-main.95b902e3.js.map",
+    "static/js/2.6816ac8b.chunk.js": "/moviegalaxy/static/js/2.6816ac8b.chunk.js",
+    "static/js/2.6816ac8b.chunk.js.map": "/moviegalaxy/static/js/2.6816ac8b.chunk.js.map",
+    "index.html": "/moviegalaxy/index.html",
+    "precache-manifest.bbc70aa0e0e0f1ca54c36b538ca2ce8f.js": "/moviegalaxy/precache-manifest.bbc70aa0e0e0f1ca54c36b538ca2ce8f.js",
+    "service-worker.js": "/moviegalaxy/service-worker.js",
+    "static/css/main.f928a283.chunk.css.map": "/moviegalaxy/static/css/main.f928a283.chunk.css.map",
+    "static/js/2.6816ac8b.chunk.js.LICENSE.txt": "/moviegalaxy/static/js/2.6816ac8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b902e3.js",
+    "static/js/2.6816ac8b.chunk.js",
+    "static/css/main.f928a283.chunk.css",
+    "static/js/main.86a81666.chunk.js"
+  ]
+}
