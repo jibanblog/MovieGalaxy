@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc360ff95246d754f71e69bdfb825394",
+    "revision": "2103b11eb4f11f51586a808eb0382911",
     "url": "/moviegalaxy/index.html"
   },
   {
-    "revision": "18119965ab35cbec13a1",
+    "revision": "11a017208cde4f3c0e74",
     "url": "/moviegalaxy/static/css/main.f928a283.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moviegalaxy/static/js/2.6816ac8b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18119965ab35cbec13a1",
-    "url": "/moviegalaxy/static/js/main.8cc3f39a.chunk.js"
+    "revision": "11a017208cde4f3c0e74",
+    "url": "/moviegalaxy/static/js/main.94050f73.chunk.js"
   },
   {
     "revision": "91b8c60f4e2546b302d0",
